@@ -13,7 +13,7 @@
      group: webserver
      count: 1
      region: us-west-1
-     security_group: launch-wizard-1
+     security_group: launch-wizard-3
    
    tasks:
 
