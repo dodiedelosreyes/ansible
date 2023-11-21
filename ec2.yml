@@ -1,4 +1,4 @@
---
+---
  - name: provisioning EC2 instances using Ansible
    hosts: localhost
    connection: local
